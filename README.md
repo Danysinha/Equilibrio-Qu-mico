@@ -24,8 +24,8 @@
          
       </div>
 
-      <div class= "beneficios">
-      <h3 class= "titulo-centralizado">Benefícios</h3>
+      <div class= "Tipos de Equilíbrio Químicos">
+      <h3 class= "titulo-centralizado">Tipos de Equilíbrio Químicos</h3>
       
           <ul>
                <li class= "itens">Atendimento aos Clientes</li>
